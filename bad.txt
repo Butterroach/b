@@ -1,0 +1,13 @@
+*.idiot-testdomain-hopefullythisisntarealdomain.goog
+*.y2mate.com
+*.apkmody.io
+*.happymod.to
+*.ccm.net
+*.softonic.com
+*.an1.com
+*.aptoide.com
+*.uptodown.com
+*.apkpure.com
+*.apkmirror.com
+*.download.com
+*.cnet.com
