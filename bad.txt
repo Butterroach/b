@@ -11,3 +11,5 @@
 *.apkmirror.com
 *.download.com
 *.cnet.com
+*tiktok*
+*.discord.*
