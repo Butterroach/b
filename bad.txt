@@ -13,3 +13,7 @@
 *.cnet.com
 *tiktok*
 *.discord.*
+*.com
+*.net
+*.org
+*.io
