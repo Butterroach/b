@@ -1,5 +1,5 @@
 *.idiot-testdomain-hopefullythisisntarealdomain.goog
-*.y2mate.com
+*.y2mate.*
 *.apkmody.io
 *.happymod.to
 *.ccm.net
