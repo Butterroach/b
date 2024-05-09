@@ -2,7 +2,7 @@
 set URL=https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/pro.txt
 set FILE=pro-onlydomains.txt
 set STATUS_FILE=hagezi_dowmload_last_status.txt
-cur1 -o "%FILE%" -f "%URL%" > nul 2>&1
+curl -o "%FILE%" -f "%URL%" > nul 2>&1
 if %ERRORLEVEL% equ 0 (
     echo File downloaded successfully. > "%STATUS_FILE%"
 ) else (
