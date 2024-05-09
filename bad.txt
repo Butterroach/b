@@ -13,3 +13,4 @@
 *.cnet.com
 *tiktok*
 *.discord.*
+studio.youtube.com
