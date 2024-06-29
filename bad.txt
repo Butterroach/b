@@ -1,3 +1,5 @@
+*.y*mate.*
+*.y*meta.*
 *.idiot-testdomain-hopefullythisisntarealdomain.goog
 *.apkmody.io
 *.happymod.to
