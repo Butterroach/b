@@ -1,4 +1,4 @@
 # lost test
 0.0.0.0 *.y*mate.* *.y*meta.* *.idiot-testdomain-hopefullythisisntarealdomain.goog *.apkmody.io *.happymod.to *.ccm.net *.softonic.com *.an1.com
 0.0.0.0 *.aptoide.com *.uptodown.com *.apkpure.com *.apkmirror.com *.download.com *.cnet.com *tiktok* *.discord.*
-0.0.0.0 studio.youtube.com
+0.0.00 studio.youtube.com
