@@ -1,4 +1,4 @@
-72.212.192.39     google.com      # this should be detected as malicious!
-192.132.212.123   bing.com        # same here
-192.168.5.8       microsoft.com   # this should not be detected as malicious
-129.129.242.121   apple.com       # but this should
+72.212.192.39     google.com       # this should be detected as malicious!
+192.132.212.123   bing.com         # same here
+192.168.5.8       microsoft.com    # this should not be detected as malicious
+129.129.242.121   apple.com        # but this should
